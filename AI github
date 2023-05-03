@@ -1,1 +1,6 @@
-
+자식 복제 https://github.com/ 사용자 이름 / 사용자 이름.github.io
+cd 사용자 이름.github.io
+echo "Hello World" > 인덱스.html
+자식 추가 --all
+git commit -m "초기 커밋"
+git push -u 원점 메인
